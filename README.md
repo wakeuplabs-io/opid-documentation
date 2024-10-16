@@ -3,13 +3,11 @@
 
 Optimism ID is the result of a [Mission Request](https://gov.optimism.io/t/ready-to-vote-zk-toolkit-for-zk-application-developers/7444) from the optimism community. The goal of this mission is to provide applications on Optimism with a toolkit that enables trusted, secure relationships between apps and users, emphasizing self-sovereign identity and privacy. While Privado ID is technically chain-agnostic, it was primarily designed for Polygon and required some adjustments to function on Optimism. Optimism ID is a fork of Privado ID, specifically tailored to simplify the implementation of the ZK identity toolkit on the Optimism network.
 
+You can find all the repositories tailored for Optimism ID at [wakeuplabs-io/opid](https://github.com/wakeuplabs-io/opid)
+
 ## Privado ID
 
 Privado ID Documentation is the documentation hub providing extensive documentation, community resources, and guides for enthusiasts and developers interested in learning about or building solutions using Privado ID.
-
-## Disclaimer
-
-OPID is a fork from Privado Id with the aim to make identities available in the Optimism blockchain. In this repo we took Privado Id documentation and adapted it for use in Optimism with OPID. So feel free to jump back and forth with Privado Id resources.
 
 ## Contribute to OpId Documentation
 
@@ -36,7 +34,7 @@ your PR. Note that you must have a GitHub account and an understanding of Markdo
     git push
     ```
 
-4. Submit a PR against the `main` branch of the `wakeup-labs/opid-docs` repo.
+4. Submit a PR against the `main` branch of the `wakeup-labs/opid-documentation` repo.
    
 5. Add a title to your PR with appropriate labels.
    > For example, if you want to suggest edits to the "Develop" page, name your PR: *update: develop.md*.

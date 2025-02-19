@@ -37,11 +37,11 @@ And the erc20 airdrop contract is from here:
 In this case we used the [Issuer Node](https://github.com/wakeuplabs-io/opid-issuer-node) to issue the credentials on chain. To remove complexity not associated to the demo we just assumed everyone who claims is worthy of the credential (most likely not the case in a real world scenario).
 
 Example deployments can be found here:
-- Demo -> http://opid-demo.wakeuplabs.link.s3-website-us-east-1.amazonaws.com/
-- Issuer -> http://api.34.54.152.126.nip.io/
-- UI Api -> http://app.34.54.152.126.nip.io/
-- UI -> http://ui.34.54.152.126.nip.io/
-- RHS -> http://a5b04b3407e4a4aaaa0dfb9fae5f56ea-5d593b240f465f95.elb.us-east-1.amazonaws.com
+- Demo -> https://opid.wakeuplabs.link
+- App -> https://opid-api.wakeuplabs.link
+- App UI -> https://opid-app.wakeuplabs.link
+- UI -> https://opid-ui.wakeuplabs.link
+- RHS -> https://opid-rhs.wakeuplabs.link
 
 
 
